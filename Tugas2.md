@@ -9,7 +9,7 @@
   >
 1. cp
      
-  <img width="500" alt="Screenshot from 2024-09-02 23-03-20" src="https://github.com/user-attachments/assets/eae161ed-23a3-4b9a-b51d-54af8ea9635a">
+   <img width="500" alt="Screenshot from 2024-09-02 23-03-20" src="https://github.com/user-attachments/assets/eae161ed-23a3-4b9a-b51d-54af8ea9635a">
 
 **Fungsi**: Menyalin file atau direktori dari satu lokasi ke lokasi lain.
 
@@ -170,13 +170,13 @@
 
  28. diff
 
-     <img width="500" alt="Screenshot from 2024-09-03 23-43-13]" src="ttps://github.com/user-attachments/assets/131f0fc9-2f60-44a8-9f5c-ca10be3f6d4c">
- 
+     <img width="500" alt="Screenshot from 2024-09-03 23-43-13" src="https://github.com/user-attachments/assets/0ff0f49d-7ca5-4160-ba75-b7e6a7dac721">
+
      **Fungsi**: Membandingkan isi dari dua file dan menunjukan perbedaan diantara mereka
 
 29. df -T
 
-      <img width="500" alt="Screenshot from 2024-09-03 23-45-45" src="https://github.com/user-attachments/assets/5a83c221-9f4e-4ba8-bd35-41da5bc50537">
+     <img width="500" alt="Screenshot from 2024-09-03 23-45-45" src="https://github.com/user-attachments/assets/5a83c221-9f4e-4ba8-bd35-41da5bc50537">
 
      **Fungsi**: Menampilkan informasi pengguna diks pada setiap partisi,termasuk dari tipe file 
 
